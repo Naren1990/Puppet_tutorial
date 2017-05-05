@@ -1,0 +1,8 @@
+
+git init
+git config user.name "Naren1990"
+git config user.email "dnarenraj@gmail.com"
+git add .
+git commit -m "First backup"
+git push https://github.com/Naren1990/Puppet_tutorial.git  master
+
